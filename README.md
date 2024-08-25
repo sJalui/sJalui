@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubh Jalui</h1>
-<h3 align="center">An aspiring Fullstack developer from Mumbai, India</h3>
+<h3 align="center">An aspiring Data Analyst & Fullstack developer from Mumbai, India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjalui" alt="sjalui" /></a> </p>
 
