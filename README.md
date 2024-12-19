@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjalui" alt="sjalui" /></a> </p>
 
-- 🌱 I’m currently learning **Fullstack, Python with AiML**
+- 🌱 I’m currently learning **Fullstack Development, Python with AiML as well as Data Analytics**
 
 - 📫 How to reach me **jaluishubh@gmail.com**
 
