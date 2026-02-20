@@ -47,14 +47,6 @@ A curious developer from **Mumbai, India** — learning Fullstack, Python for AI
 
 ---
 
-### 📂 Featured Projects
-- **Portfolio** — personal site built with React + Tailwind. *(link to repo)*  
-- **Secure-Notes** — a simple end-to-end encrypted note app I built for practice. *(link to repo)*  
-- **Algo-Playground** — algorithm problems and solutions (JS/Python). *(link to repo)*
-
-*(Replace the placeholders above with real repo links and a one-line description for each project.)*
-
----
 
 ### 📈 GitHub Stats & Top Languages
 <p align="left">
