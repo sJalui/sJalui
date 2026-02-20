@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
-      src="https://github-profile-trophy-liard-delta.vercel.app/?username=sJalui&theme=onedark&row=1&column=7&margin-w=10"
+      src="https://github-profile-trophy-fork-two.vercel.app/?username=sJalui&theme=onedark&row=1&column=7&margin-w=10"
       alt="GitHub Trophies"
     />
   </a>
@@ -59,18 +59,18 @@ I enjoy building small tools, exploring secure engineering practices, and solvin
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Overview
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sJalui&show_icons=true&theme=transparent&count_private=true&include_all_commits=true"
-    height="165"
-  />
-  &nbsp;
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sJalui&layout=compact&theme=transparent"
-    height="165"
-  />
+  <a href="https://github.com/sJalui?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-View-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/sJalui?tab=followers">
+    <img src="https://img.shields.io/github/followers/sJalui?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/sJalui">
+    <img src="https://img.shields.io/github/stars/sJalui?style=for-the-badge" />
+  </a>
 </p>
 
 ---
