@@ -1,4 +1,4 @@
-<!-- README.md for sjalui (paste as-is) -->
+<!-- README.md for Prof -->
 
 <h1 align="center">Hi 👋, I'm Shubh Jalui</h1>
 <p align="center">
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sjalui&theme=flat&row=1&column=7" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sJalui&theme=flat&row=1&column=7" alt="trophies" />
   </a>
 </p>
 
