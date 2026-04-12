@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://shubhjalui.eu.cc">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6c63ff,603cba&height=250&section=header&text=Visit%20My%20Portfolio&fontSize=50&fontAlignY=40&desc=Ninad%20Jalui%20%7C%20Full%20Stack%20%26%20AI%20Engineer&descAlignY=60&descSize=22&animation=twinkling" alt="Visit My Portfolio" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=45&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&height=150&lines=Visit+My+Portfolio;Explore+My+Full+Stack+Projects;Check+Out+My+AI+%26+IoT+Work;Click+Here+To+Enter" alt="Live Typing Portfolio Link" />
   </a>
 </p>
 
