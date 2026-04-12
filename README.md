@@ -9,13 +9,9 @@
 
 ---
 
-<!-- TROPHIES (using load-balanced mirror) -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy-fork-two.vercel.app/?username=sJalui&theme=onedark&row=1&column=7&margin-w=10"
-      alt="GitHub Trophies"
-    />
+  <a href="https://shubhjalui.eu.cc">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6c63ff,603cba&height=250&section=header&text=Visit%20My%20Portfolio&fontSize=50&fontAlignY=40&desc=Ninad%20Jalui%20%7C%20Full%20Stack%20%26%20AI%20Engineer&descAlignY=60&descSize=22&animation=twinkling" alt="Visit My Portfolio" />
   </a>
 </p>
 
