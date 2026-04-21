@@ -1,63 +1,66 @@
-<!-- README.md for Prof -->
-<h1 align="center">Hi 👋, I'm Shubh Jalui</h1>
+<!-- README.md -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=120&section=header&text=Shubh%20Jalui&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
+</div>
+
 <p align="center">
-  <img alt="typing" 
-       src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=26&duration=2500&pause=1000&color=2F80ED&center=true&vCenter=true&width=720&lines=Aspiring+Developer+%7C+Cybersecurity+Enthusiast;Fullstack+|+Python+|+AI+ML+|+Data+Analytics" />
+  <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=2F80ED&center=true&vCenter=true&width=720&lines=Aspiring+Developer+%7C+Cybersecurity+Enthusiast;Fullstack+%7C+Python+%7C+AI+ML+%7C+Data+Analytics" />
+</p>
+
+<p align="center">
+  <a href="https://in.linkedin.com/in/shubh-jalui-1923b1259"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://instagram.com/s_jalui"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="https://leetcode.com/sjalui"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>&nbsp;
+  <a href="https://shubhjalui.eu.cc"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://shubhjalui.eu.cc">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=45&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&height=150&lines=Visit+My+Portfolio;Explore+My+Projects;Check+Out+My+Work;Click+Here+To+Enter" alt="Live Typing Portfolio Link" />
-  </a>
-</p>
+### 👨‍💻 About Me
 
----
+A curious developer from **Mumbai, India** building across Fullstack, Python for AI/ML, and Data Analytics.  
+I enjoy crafting small tools, exploring secure engineering practices, and solving algorithmic puzzles.
 
-### 👨‍💻 About
-A curious developer from **Mumbai, India** — learning Fullstack, Python for AI/ML, and Data Analytics.  
-I enjoy building small tools, exploring secure engineering practices, and solving algorithmic puzzles.
-
----
-
-### 🔭 Currently
-- Learning: **Fullstack Web Development**
-- Exploring: **Machine Learning with Python**
-- Practicing: **Data Analytics**
-- 📫 Reach me at: **jaluishubh@gmail.com**
-
----
-
-### 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shubh-jalui-1923b1259)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E1306C?logo=instagram&logoColor=white)](https://instagram.com/s_jalui)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/sjalui)
+| 🔭 Learning | Fullstack Web Development |
+|---|---|
+| 🤖 Exploring | Machine Learning with Python |
+| 📊 Practicing | Data Analytics & Cybersecurity |
+| 📫 Contact | jaluishubh@gmail.com |
 
 ---
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,java,nodejs,react,mongodb,mysql,git,linux,docker,aws&perline=7" />
   </a>
-  <br/>
 </p>
 
 ---
 
-### 📊 GitHub Overview
+### 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/sJalui?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-View-blue?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/sJalui?tab=followers">
-    <img src="https://img.shields.io/github/followers/sJalui?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/sJalui">
-    <img src="https://img.shields.io/github/stars/sJalui?style=for-the-badge" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sJalui&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sJalui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sJalui&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sJalui&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=80&section=footer" />
+</div>
