@@ -4,7 +4,6 @@
 </div>
 
 <!-- README.md for Prof -->
-<h1 align="center">Hi 👋, I'm Shubh Jalui</h1>
 <p align="center">
   <img alt="typing" 
        src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=26&duration=2500&pause=1000&color=2F80ED&center=true&vCenter=true&width=720&lines=Aspiring+Developer+%7C+Cybersecurity+Enthusiast;Fullstack+|+Python+|+AI+ML+|+Data+Analytics" />
