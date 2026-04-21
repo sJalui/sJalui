@@ -43,8 +43,6 @@ I enjoy building small tools, exploring secure engineering practices, and solvin
     <img src="https://skillicons.dev/icons?i=html,css,js,python,java,nodejs,react,mongodb,mysql,git,linux,docker,aws&perline=7" />
   </a>
   <br/>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" height="28" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS_Fargate-FF9900?style=flat-square&logo=awsfargate&logoColor=white" height="28" />
 </p>
 
 ---
