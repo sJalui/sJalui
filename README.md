@@ -34,7 +34,7 @@ I enjoy building small tools, exploring secure engineering practices, and solvin
 ---
 
 ### 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shubh-jalui-1923b1259)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shubh-jalui)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E1306C?logo=instagram&logoColor=white)](https://instagram.com/s_jalui)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/sjalui)
 
